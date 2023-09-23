@@ -1,0 +1,12 @@
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\bin\Debug\Proyecto-Objetos.exe.config
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\bin\Debug\Proyecto-Objetos.exe
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\bin\Debug\Proyecto-Objetos.pdb
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\bin\Debug\OpenTK.dll
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\bin\Debug\OpenTK.pdb
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\bin\Debug\OpenTK.xml
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.csproj.AssemblyReference.cache
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.csproj.SuggestedBindingRedirects.cache
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.csproj.CoreCompileInputs.cache
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.csproj.CopyComplete
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.exe
+F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.pdb
