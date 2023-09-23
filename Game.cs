@@ -62,7 +62,9 @@ namespace Proyecto_Objetos
             repisa = new Pared(25, 25,3 ,7, 1, 4);
 
             autito = new Auto(20, 22, 3 ,6);
-            autop = new Pared(25, 30, 4, 3, 2, 2);
+            // autop = new Pared(25, 30, 4, 3, 2, 2);
+
+            autop = new Pared(0, 0, 0, 3, 2, 2);
 
             pared2 = new Pared(-20, -20, 0, 8, 10, 3);  //lado inferirio izquierdo
             repisa2 = new Pared(-20, -20, 3, 7, 1, 4);

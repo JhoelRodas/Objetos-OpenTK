@@ -10,3 +10,14 @@ F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\obj\Debug\Proy
 F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.csproj.CopyComplete
 F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.exe
 F:\Universidad-5to-Semestre\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.pdb
+C:\Universidad\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.csproj.AssemblyReference.cache
+C:\Universidad\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.csproj.CoreCompileInputs.cache
+C:\Universidad\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.exe
+C:\Universidad\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.pdb
+C:\Universidad\Programacion grafica\Proyecto-Objetos\bin\Debug\Proyecto-Objetos.exe.config
+C:\Universidad\Programacion grafica\Proyecto-Objetos\bin\Debug\Proyecto-Objetos.exe
+C:\Universidad\Programacion grafica\Proyecto-Objetos\bin\Debug\Proyecto-Objetos.pdb
+C:\Universidad\Programacion grafica\Proyecto-Objetos\bin\Debug\OpenTK.dll
+C:\Universidad\Programacion grafica\Proyecto-Objetos\bin\Debug\OpenTK.pdb
+C:\Universidad\Programacion grafica\Proyecto-Objetos\bin\Debug\OpenTK.xml
+C:\Universidad\Programacion grafica\Proyecto-Objetos\obj\Debug\Proyecto-Objetos.csproj.CopyComplete
